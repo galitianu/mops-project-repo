@@ -1,7 +1,9 @@
 def main():
-    print("Hello!")
-    print("This function does things")
+    print("Salut!")
+    print("Functia asta face lucruri")
     if(1>3):
-        print("You will never see this")
-        
+        print("Nu vei vedea asta niciodata")
+    else:
+        print("Ana are mere")
+
 main()
